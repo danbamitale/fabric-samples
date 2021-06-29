@@ -1,0 +1,54 @@
+=============== Jun 29, 2021 (UTC) ===============
+19:13:47.927541 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:13:47.948801 db@open opening
+19:13:47.959557 version@stat F·[] S·0B[] Sc·[]
+19:13:47.965072 db@janitor F·2 G·0
+19:13:47.966165 db@open done T·16.2732ms
+=============== Jun 29, 2021 (UTC) ===============
+20:17:01.987527 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:17:02.015510 version@stat F·[] S·0B[] Sc·[]
+20:17:02.016723 db@open opening
+20:17:02.018064 journal@recovery F·1
+20:17:02.021804 journal@recovery recovering @1
+20:17:02.032523 version@stat F·[] S·0B[] Sc·[]
+20:17:02.074745 db@janitor F·2 G·0
+20:17:02.076276 db@open done T·58.4636ms
+=============== Jun 29, 2021 (UTC) ===============
+20:31:35.208632 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:31:35.234164 version@stat F·[] S·0B[] Sc·[]
+20:31:35.235207 db@open opening
+20:31:35.240831 journal@recovery F·1
+20:31:35.248151 journal@recovery recovering @2
+20:31:35.256248 version@stat F·[] S·0B[] Sc·[]
+20:31:35.287280 db@janitor F·2 G·0
+20:31:35.289938 db@open done T·49.5035ms
+=============== Jun 29, 2021 (UTC) ===============
+21:43:17.973353 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:43:17.987303 version@stat F·[] S·0B[] Sc·[]
+21:43:17.988479 db@open opening
+21:43:17.992600 journal@recovery F·1
+21:43:17.997229 journal@recovery recovering @4
+21:43:18.017305 memdb@flush created L0@6 N·23 S·404B "ch1..nfo,v21":"sys..n\x01\x01,v10"
+21:43:18.027904 version@stat F·[1] S·404B[404B] Sc·[0.25]
+21:43:18.065123 db@janitor F·3 G·0
+21:43:18.066216 db@open done T·74.0644ms
+=============== Jun 29, 2021 (UTC) ===============
+21:57:43.928081 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:57:43.938531 version@stat F·[1] S·404B[404B] Sc·[0.25]
+21:57:43.939616 db@open opening
+21:57:43.940869 journal@recovery F·1
+21:57:43.943147 journal@recovery recovering @7
+21:57:43.956123 memdb@flush created L0@9 N·5 S·214B "ch1..nfo,v27":"sys..nfo,v26"
+21:57:43.961044 version@stat F·[2] S·618B[618B] Sc·[0.50]
+21:57:43.997598 db@janitor F·4 G·0
+21:57:44.002161 db@open done T·61.5175ms
+=============== Jun 29, 2021 (UTC) ===============
+22:13:04.812072 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:13:04.828840 version@stat F·[2] S·618B[618B] Sc·[0.50]
+22:13:04.831174 db@open opening
+22:13:04.833106 journal@recovery F·1
+22:13:04.843767 journal@recovery recovering @10
+22:13:04.861218 memdb@flush created L0@12 N·2 S·159B "ch1..nfo,v31":"sys..nfo,v32"
+22:13:04.866557 version@stat F·[3] S·777B[777B] Sc·[0.75]
+22:13:04.907310 db@janitor F·5 G·0
+22:13:04.909823 db@open done T·77.0488ms
